@@ -14,7 +14,7 @@ I'm a passionate BTech student currently diving deep into Full-Stack Web Develop
 ---
 
 ## 🎓 Education:
-- **BTech in Gaming Technology** – Current CGPA: 8.23
+- **BTech in Gaming Technology** – Current CGPA: 8.44
 
 ---
 
