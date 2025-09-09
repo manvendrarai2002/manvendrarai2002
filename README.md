@@ -21,9 +21,6 @@ MongoDB, MySQL
 Tools & Platforms:
 Git, GitHub, VS Code, Blender, Unity
 
-🚀 Projects
-Full-Stack E-commerce Website
-Currently in development
 
 A personal project designed to apply and strengthen my MERN stack skills.
 
