@@ -35,7 +35,10 @@ Deepening my knowledge and proficiency in Data Structures and Algorithms.
 Enhancing my skills in building robust and scalable web applications.
 
 📫 Let's Connect
-LinkedIn: [https://www.linkedin.com/in/manvendra-rai-493075252/]
+
+LinkedIn:[https://www.linkedin.com/in/manvendra-rai-493075252/]
 
 Email: [manvendrarai002@gmail.com]
+
+contact: 9140729194
 
