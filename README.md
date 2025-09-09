@@ -1,37 +1,41 @@
-# Hi there, I'm Manvendra Rai! 👋
+Hi, I'm Manvendra Rai! 👋
+I'm a passionate and goal-oriented B.Tech student specializing in full-stack web development and Data Structures and Algorithms (DSA). My objective is to build scalable applications and solve complex problems, aiming for a Tier 1 level of expertise in the tech industry.
 
-I'm a passionate BTech student currently diving deep into Full-Stack Web Development and mastering Data Structures and Algorithms (DSA). My goal is to build scalable web applications and compete with the best minds in tech.
+🎓 Education
+B.Tech in Gaming Technology
+Current CGPA: 8.44
 
----
+💻 Skills
+Languages:
+Java, JavaScript, HTML, CSS
 
-## 🚀 About Me:
-- 🎓 **3rd-year Gaming Technology Student** exploring Full-Stack Development.
-- 💻 Currently learning **MERN Stack** and enhancing my DSA skills.
-- 🕒 Dedicated to reach tier-1 level standards.
-- 🛒 **Building a Full-Stack E-commerce Website** based on my own idea.
+Frontend:
+React.js
 
+Backend:
+Node.js, Express.js
 
----
+Databases:
+MongoDB, MySQL
 
-## 🎓 Education:
-- **BTech in Gaming Technology** – Current CGPA: 8.44
+Tools & Platforms:
+Git, GitHub, VS Code, Blender, Unity
 
----
+🚀 Projects
+Full-Stack E-commerce Website
+Currently in development
 
-## 🔧 Tech Skills:
-- **Languages:** Java, JavaScript, HTML, CSS.
-- **Frontend:** React.js.
-- **Backend:** Node.js.
-- **Databases:** MongoDB, MySQL.
-- **Tools & Platforms:** Git, GitHub, Blender (for VFX), Unity (for AR/VR).
+A personal project designed to apply and strengthen my MERN stack skills.
 
----
+🌱 What I'm Learning
+Mastering the MERN Stack (MongoDB, Express, React, Node).
 
-## 📚 Currently Learning:
-- **MERN Stack Development** at Ethnus.
-- **Advanced DSA** from free resources.
+Deepening my knowledge and proficiency in Data Structures and Algorithms.
 
+Enhancing my skills in building robust and scalable web applications.
 
--
+📫 Let's Connect
+LinkedIn: [https://www.linkedin.com/in/manvendra-rai-493075252/]
 
+Email: [manvendrarai002@gmail.com]
 
