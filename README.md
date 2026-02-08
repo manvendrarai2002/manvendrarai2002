@@ -114,8 +114,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manvendrarai2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrarai2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -128,7 +126,8 @@
 
 🏅 **Certification:** IBM Cybersecurity Analyst (2025)
 
-💻 **Competitive Programming:** 150+ problems solved across LeetCode, GeeksforGeeks, and Codeforces
+💻 **Competitive Programming:** Reached Pupil on Codeforces
+
 
 ---
 
