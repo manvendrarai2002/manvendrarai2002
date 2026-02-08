@@ -25,7 +25,7 @@
 
 🎯 **Goal:** Achieve Tier-1 expertise in software engineering and contribute to impactful tech solutions
 
-🔭 Currently working on **real-time applications** and **cloud-native solutions**
+🔭 Currently working on **Strengthning my DSA skills and learning Solution Architect**
 
 ---
 
