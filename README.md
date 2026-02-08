@@ -25,7 +25,7 @@
 
 🎯 **Goal:** Achieve Tier-1 expertise in software engineering and contribute to impactful tech solutions
 
-🔭 Currently working on **Strengthning my DSA skills and learning Solution Architect**
+🔭 Currently working on **Strengthening my DSA skills and learning AWS Solutions Architecture**
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## 💼 Featured Projects
 
-### 🎯 [Real-Time Chat Application](https://github.com/manvendrarai2002)
+### 🎯 [Real-Time Chat Application](https://github.com/manvendrarai2002/realtime-chat)
 **MERN Stack + WebSockets**
 - Built a WhatsApp-like messaging platform with instant communication using WebSockets
 - Optimized MongoDB queries with indexing, reducing response time by **45%**
@@ -77,7 +77,7 @@
 
 ---
 
-### ☁️ [Serverless Image Processing Pipeline](https://github.com/manvendrarai2002)
+### ☁️ [Serverless Image Processing Pipeline](https://github.com/manvendrarai2002/serverless-image-pipeline)
 **AWS (Lambda, S3, CloudFront, SQS)**
 - Automated image processing (resize, compress, watermark) using AWS Lambda triggers
 - Reduced storage costs by **42%** using S3 Intelligent Tiering and lifecycle policies
@@ -88,7 +88,7 @@
 
 ---
 
-### 🏥 [AI-Based Multi-Disease Prediction System](https://github.com/manvendrarai2002)
+### 🏥 [AI-Based Multi-Disease Prediction System](https://github.com/manvendrarai2002/disease-prediction)
 **Python + Machine Learning**
 - Trained ML models to predict 5 diseases with **93% accuracy** using Random Forest and Logistic Regression
 - Handled class imbalance using SMOTE, improving minority class F1-score from **68% to 91%**
@@ -99,7 +99,7 @@
 
 ---
 
-### 🤖 [JarvisGPT AI Chat Bot](https://github.com/manvendrarai2002)
+### 🤖 [JarvisGPT AI Chat Bot](https://github.com/manvendrarai2002/jarvisgpt)
 **React + OpenAI API**
 - Conversational AI chatbot with multi-session support and persistent chat history
 - Integrated OpenAI API for intelligent responses
@@ -113,12 +113,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manvendrarai2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrarai2002&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=manvendrarai2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manvendrarai2002&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrarai2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -131,16 +129,6 @@
 🏅 **Certification:** IBM Cybersecurity Analyst (2025)
 
 💻 **Competitive Programming:** 150+ problems solved across LeetCode, GeeksforGeeks, and Codeforces
-
----
-
-## 📈 LeetCode Stats
-
-<div align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/man_vendra_rai?theme=dark&font=Roboto&ext=heatmap)
-
-</div>
 
 ---
 
@@ -161,9 +149,6 @@
   </a>
   <a href="mailto:manvendrarai002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+919140729194">
-    <img src="https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
