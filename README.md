@@ -21,7 +21,7 @@
 
 💡 Passionate **Full-Stack Developer** specializing in building scalable web applications with the **MERN Stack**
 
-🧩 **Problem Solver** with 150+ DSA problems solved across LeetCode, GeeksforGeeks, and Codeforces
+🧩 **Problem Solver** with 200+ DSA problems solved across LeetCode and Codeforces
 
 🎯 **Goal:** Achieve Tier-1 expertise in software engineering and contribute to impactful tech solutions
 
