@@ -88,7 +88,7 @@
 
 ---
 
-### 🏥 [AI-Based Multi-Disease Prediction System](https://github.com/manvendrarai2002/disease-prediction)
+### 🏥 [AI-Based Multi-Disease Prediction System](https://github.com/manvendrarai2002/Health_Guard)
 **Python + Machine Learning**
 - Trained ML models to predict 5 diseases with **93% accuracy** using Random Forest and Logistic Regression
 - Handled class imbalance using SMOTE, improving minority class F1-score from **68% to 91%**
