@@ -20,7 +20,7 @@
 I am a **Software Development Engineer** focused on building high-throughput, distributed systems. My expertise lies at the intersection of **MERN Stack** excellence and **AWS Cloud Architecture**. I don't just write code; I design systems that scale.
 
 * 🎓 **B.Tech in Computer Science** | VIT University (**CGPA: 8.47**)
-* 💻 **Competitive Programmer:** Codeforces Pupil | 250+ Problems solved across LeetCode/GFG.
+* 💻 **Competitive Programmer:** Codeforces Pupil | 300+ Problems solved across LeetCode/codeforces.
 * ☁️ **AWS Focus:** Currently architecting serverless solutions and optimizing cloud infrastructure for cost and performance.
 * 🎯 **Target:** Engineering roles involving distributed systems, microservices, and high-performance computing.
 
