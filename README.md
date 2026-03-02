@@ -1,9 +1,9 @@
-<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/01d3886c-9035-4e95-b05c-5fde9c51a3e3" />
- 
+<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/20618872-82f6-4038-b716-964fd56ca7b0" />
+
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Architect;AWS+Certified+Solutions+Architect;DSA+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Architect;AWS;DSA+Specialist)](https://git.io/typing-svg)
 
 </div>
 
