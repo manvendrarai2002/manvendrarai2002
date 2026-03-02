@@ -35,7 +35,7 @@ I am a **Software Development Engineer** focused on building high-throughput, di
 **Backend:** Node.js, Express, Microservices, System Design (HLD/LLD)
 
 ### 💻 Development & Databases
-**Languages:** Java, JavaScript (ES6+), Python, SQL, C++  
+**Languages:** Java, JavaScript (ES6+), Python, SQL
 **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit  
 **Databases:** MongoDB (NoSQL), MySQL, PostgreSQL, Redis (Caching)
 
