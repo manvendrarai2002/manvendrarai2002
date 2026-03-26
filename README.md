@@ -31,7 +31,6 @@ I am a **Software Development Engineer** focused on building high-throughput, di
 
 ### 🏗️ Systems & Architecture
 **Cloud:** AWS (Lambda, S3, EC2, CloudFront, RDS, SQS, IAM)  
-**DevOps:** Docker, Kubernetes (K8s), CI/CD (GitHub Actions), Terraform  
 **Backend:** Node.js, Express, Microservices, System Design (HLD/LLD)
 
 ### 💻 Development & Databases
