@@ -15,8 +15,8 @@ Building reliable web applications and backend systems with Node.js, JavaScript,
 ## About me
 
 - 🎓 B.Tech in Computer Science — VIT University | CGPA: 8.47
-- 💻 Interested in backend engineering, full-stack development, cloud systems, and distributed systems
-- ☁️ Working with AWS services including Lambda, S3, SQS, CloudFront, DynamoDB, and CloudWatch
+- 💻 Focused on backend engineering, full-stack development, cloud systems, and distributed systems
+- ☁️ Hands-on with AWS Lambda, S3, SQS, DynamoDB, CloudWatch, and event-driven architectures
 - 🧩 Practicing DSA and core CS fundamentals alongside project development
 
 ## Featured projects
@@ -24,38 +24,35 @@ Building reliable web applications and backend systems with Node.js, JavaScript,
 ### 🚀 Focus Frontier
 **Full-stack cognitive training and assessment platform**
 
-MERN-based platform with multiple interactive games, authentication, analytics, adaptive difficulty, session tracking, and 1v1 multiplayer using Socket.IO.
+Interactive platform with authentication, analytics, adaptive difficulty, persistent sessions, and real-time 1v1 multiplayer using Socket.IO. Backend work includes validation, security hardening, API tests, and CI.
 
 **Stack:** JavaScript, Node.js, Express, MongoDB, Socket.IO, JWT
 
-→ [Repository](https://github.com/manvendrarai2002/Focus_Frontier)
+[Repository](https://github.com/manvendrarai2002/Focus_Frontier) • [CI](https://github.com/manvendrarai2002/Focus_Frontier/actions)
 
 ### ☁️ Serverless Image Processing Pipeline
 **Event-driven AWS image processing system**
 
-Processes uploaded images asynchronously using S3, Lambda, SQS, DynamoDB and CloudFront, with retry/DLQ handling and CloudWatch observability.
+Processes uploads asynchronously with S3, Lambda, SQS, a dead-letter queue, DynamoDB metadata, Sharp transformations, and infrastructure-as-code through Serverless Framework.
 
-**Stack:** AWS, Node.js, Lambda, S3, SQS, DynamoDB, CloudFront, CloudWatch, Serverless Framework
+**Stack:** AWS, Node.js, Lambda, S3, SQS, DynamoDB, CloudWatch, Serverless Framework, Sharp
 
-→ [Repository](https://github.com/manvendrarai2002/Serverless_Image_Processing_Pipeline)
+[Repository](https://github.com/manvendrarai2002/Serverless_Image_Processing_Pipeline) • [CI](https://github.com/manvendrarai2002/Serverless_Image_Processing_Pipeline/actions)
 
 ### 🤖 JarvisGPT
 **AI-powered full-stack application**
 
-MERN application integrating generative AI, image generation, usage credits, authentication, and Razorpay payments.
+MERN application integrating generative AI, image generation, usage credits, authentication, and Razorpay payments. Payment flows include server-side signature verification and webhook handling.
 
 **Stack:** React, Vite, Node.js, Express, MongoDB, Gemini API, Razorpay
 
-→ [Repository](https://github.com/manvendrarai2002/JarvisGPT)
+[Repository](https://github.com/manvendrarai2002/JarvisGPT) • [CI](https://github.com/manvendrarai2002/JarvisGPT/actions)
 
-### 🧠 HealthGuard
-**End-to-end machine-learning inference application**
+### 🧠 Additional project — HealthGuard
 
-Random Forest based health-risk prediction demo with SMOTE-based imbalance handling, model training/evaluation, and a Flask API. The project uses synthetic data and is intended as a technical demonstration, not clinical advice.
+End-to-end Random Forest inference demo with SMOTE, Flask, model evaluation, and a synthetic dataset. Kept as an ML/API project rather than a clinical product.
 
-**Stack:** Python, Scikit-learn, SMOTE, Flask
-
-→ [Repository](https://github.com/manvendrarai2002/Health_Guard)
+[Repository](https://github.com/manvendrarai2002/Health_Guard)
 
 ---
 
